@@ -1277,7 +1277,7 @@ opacity: 1
 .service-intro {
 	padding-top: 50px;
   padding-bottom: 50px;
-  background: linear-gradient( to left, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.6)), url(../img/services-bg.png) no-repeat center center;
+  background: linear-gradient( to left, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.6)), url(../img/services-bg.jpg) no-repeat center center;
   background-size: cover;
   background-attachment: fixed;
 }
