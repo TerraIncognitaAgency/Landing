@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="187px" height="286px" viewBox="0 0 187 286" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="195px" height="294px" viewBox="0 0 195 294" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
-    <title>Slice 1</title>
+    <title>Path 1</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <polygon id="Path-1" stroke="#FFFFFF" stroke-width="3" points="0.373046875 0.494140625 0.06640625 285.535156 77.1230469 285.230469 77.4921875 193.541016 186.054687 192.650391 186.054688 123.474609 92.6660156 123.322266 92.6660156 147.722656 43.8964844 90.5996094 92.078125 39.2910156 92.0976562 60.65625 186.566406 60.6757812 186.414062 0.294921875"></polygon>
+        <polygon id="Path-1" stroke="#FFFFFF" stroke-width="7" points="4.37304688 4.49414062 4.06640625 289.535156 81.1230469 289.230469 81.4921875 197.541016 190.054687 196.650391 190.054688 127.474609 96.6660156 127.322266 96.6660156 151.722656 47.8964844 94.5996094 96.078125 43.2910156 96.0976562 64.65625 190.566406 64.6757812 190.414062 4.29492188"></polygon>
     </g>
 </svg>
