@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="191px" height="289px" viewBox="0 0 191 289" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="192px" height="291px" viewBox="0 0 192 291" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
     <title>Path 3</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <polygon id="path-1" points="2.06054688 286.824219 79.0527344 286.976562 79.3789062 195.197266 188.070312 195.21875 188.4375 125.435547 94.4277344 124.978516 94.4277344 149.990234 46.1621094 92.3457031 93.9277344 40.9316406 93.5585938 62.7753906 187.748047 63.1230469 188.248047 2.24023438 2.06054688 2.24023438"></polygon>
-        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="190.376953" height="288.736328">
-            <rect x="0.060546875" y="0.240234375" width="190.376953" height="288.736328" fill="white"></rect>
+        <polygon id="path-1" points="3.06054688 287.824219 80.0527344 287.976562 80.3789062 196.197266 189.070312 196.21875 189.4375 126.435547 95.4277344 125.978516 95.4277344 150.990234 47.1621094 93.3457031 94.9277344 41.9316406 94.5585938 63.7753906 188.748047 64.1230469 189.248047 3.24023438 3.06054688 3.24023438"></polygon>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2.5" y="-2.5" width="191.376953" height="289.736328">
+            <rect x="0.560546875" y="0.740234375" width="191.376953" height="289.736328" fill="white"></rect>
             <use xlink:href="#path-1" fill="black"></use>
         </mask>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <use id="Path-3" stroke="#FFFFFF" mask="url(#mask-2)" stroke-width="4" xlink:href="#path-1"></use>
+        <use id="Path-3" stroke="#FFFFFF" mask="url(#mask-2)" stroke-width="5" xlink:href="#path-1"></use>
     </g>
 </svg>
