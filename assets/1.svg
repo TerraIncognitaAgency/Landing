@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="187px" height="286px" viewBox="0 0 187 286" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="191px" height="289px" viewBox="0 0 191 289" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
-    <title>Slice 1</title>
+    <title>Path 3</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
+    <defs>
+        <polygon id="path-1" points="2.06054688 286.824219 79.0527344 286.976562 79.3789062 195.197266 188.070312 195.21875 188.4375 125.435547 94.4277344 124.978516 94.4277344 149.990234 46.1621094 92.3457031 93.9277344 40.9316406 93.5585938 62.7753906 187.748047 63.1230469 188.248047 2.24023438 2.06054688 2.24023438"></polygon>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="190.376953" height="288.736328">
+            <rect x="0.060546875" y="0.240234375" width="190.376953" height="288.736328" fill="white"></rect>
+            <use xlink:href="#path-1" fill="black"></use>
+        </mask>
+    </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <polygon id="Path-1" fill="#FFFFFF" points="0.373046875 0.494140625 0.06640625 285.535156 77.1230469 285.230469 77.4921875 193.541016 186.054687 192.650391 186.054688 123.474609 92.6660156 123.322266 92.6660156 147.722656 43.8964844 90.5996094 92.078125 39.2910156 92.0976562 60.65625 186.566406 60.6757812 186.414062 0.294921875"></polygon>
+        <use id="Path-3" stroke="#FFFFFF" mask="url(#mask-2)" stroke-width="4" xlink:href="#path-1"></use>
     </g>
 </svg>
